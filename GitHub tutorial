@@ -1,0 +1,28 @@
+modified from https://github.com/sudocrystal/uw-cse-da-startup/blob/master/html/01_github.md
+
+Create your portfolio repository
+1) Login to Github
+2) Click the + in the upper-right corner and choose New repository
+3) Fill in a repository name (your project name)
+4) Check Initialize this repository with a README
+5) Click Create repository
+
+Update your default branch
+1) Click Branch: master on the left-side, type gh-pages intro the text box, and press enter
+2) Click Settings, Click Branches, in the Default branch drop-down select gh-pages
+3) Click Update, and then click I understand, update the default branch.
+4) Click Code
+5) Click 2 branches
+6) Click the trash-can icon, deleting the master branch
+
+Uploading your files
+1) Click Code
+2) Click Upload Files
+3) Using your computer's file explorer, navigate to your files
+4) Drag what you want to upload (the folder, file, etc) into Github's drag and drop interface box
+5) Write a short commit message to describe what you did (e.g. "Uploads <my project>")
+6) Click Commit Changes
+
+Viewing your work
+Navigate to https://username.github.io/repositoryname/ where you replace username with your github username, 
+and replace repositoryname with your repository name
